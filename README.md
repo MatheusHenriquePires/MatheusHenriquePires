@@ -36,7 +36,7 @@
 
 <p align="center">
   Desenvolvedor Junior em constante aprendizado e evolução.<br />
-  Especializado em desenvolvimento web com foco em Front-end e Full-stack.<br />
+  Especializado em desenvolvimento web com foco em Full-stack.<br />
   🚀 Apaixonado por criar experiências incríveis<br />
   📚 Sempre aprendendo novas tecnologias<br />
   💡 Resolvendo problemas com criatividade
