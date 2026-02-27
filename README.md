@@ -36,7 +36,7 @@ Desenvolvedor Junior em constante aprendizado e evolução. Especializado em des
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusHenriquePires&theme=github_dark)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=MatheusHenriquePires&cc=0D1117&tc=00FFFF&ic=FFFFFF&bc=000000)
 
 ---
 
