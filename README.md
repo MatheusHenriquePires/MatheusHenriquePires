@@ -32,7 +32,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💼 Desenvolvedor Full Stack
-- 🤖 Desenvolvimento de Agentes de IA e Automações
+- 🤖 Desenvolvimento de Automações
 - 🌐 Desenvolvimento de aplicações Web modernas
 - ☁️ Experiência com Deploy, APIs e Banco de Dados
 - 📚 Sempre estudando novas tecnologias
@@ -77,8 +77,6 @@
 <p>
 
 - 🤖 OpenAI API
-- ⚡ n8n
-- 🧠 Engenharia de Prompt
 - 🔗 APIs REST
 - 🔄 Webhooks
 - 📊 Integrações
