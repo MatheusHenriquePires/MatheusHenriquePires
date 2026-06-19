@@ -102,20 +102,6 @@ Sistema completo de gestão empresarial desenvolvido do zero com módulos de:
 - Relatórios
 
 ---
-
-### 🤖 Agentes de Inteligência Artificial
-
-Desenvolvimento de agentes inteligentes utilizando:
-
-- OpenAI
-- n8n
-- Webhooks
-- APIs
-- WhatsApp
-- Telegram
-
----
-
 ### 💰 Plataforma Financeira
 
 Aplicação moderna com:
