@@ -1,55 +1,172 @@
 <h1 align="center">👋 Olá! Eu sou o Matheus Henrique</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, criando soluções inovadoras e compartilhando conhecimento.
+  💻 Desenvolvedor Full Stack • 🤖 IA & Automações • 🚀 Estudante de Análise e Desenvolvimento de Sistemas
+</p>
+
+<p align="center">
+  Transformando ideias em soluções escaláveis utilizando Inteligência Artificial, desenvolvimento web moderno e automações.
 </p>
 
 ---
 
-## 📱 Conecte-se comigo
+## 🌎 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.instagram.com/henriquepires____?igsh=djdrb3o2dHoxM2Rw">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/matheushenriquepirrs">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/matheushenriquepirrs?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.instagram.com/henriquepires____">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tecnologias que utilizo
+# 🚀 Sobre mim
 
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💼 Desenvolvedor Full Stack
+- 🤖 Desenvolvimento de Agentes de IA e Automações
+- 🌐 Desenvolvimento de aplicações Web modernas
+- ☁️ Experiência com Deploy, APIs e Banco de Dados
+- 📚 Sempre estudando novas tecnologias
+- 💡 Gosto de resolver problemas complexos através da programação
+
+---
+
+# 🛠️ Tecnologias
+
+### Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+</p>
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite" />
+</p>
+
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
+</p>
+
+### DevOps & Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
+### IA & Automação
+
+<p>
+
+- 🤖 OpenAI API
+- ⚡ n8n
+- 🧠 Engenharia de Prompt
+- 🔗 APIs REST
+- 🔄 Webhooks
+- 📊 Integrações
+
 </p>
 
 ---
 
-## 🎯 Sobre mim
+# 📌 Projetos em Destaque
+
+### 🏢 ERP Empresarial
+
+Sistema completo de gestão empresarial desenvolvido do zero com módulos de:
+
+- Financeiro
+- Estoque
+- Produtos
+- Clientes
+- Orçamentos
+- Dashboard
+- Relatórios
+
+---
+
+### 🤖 Agentes de Inteligência Artificial
+
+Desenvolvimento de agentes inteligentes utilizando:
+
+- OpenAI
+- n8n
+- Webhooks
+- APIs
+- WhatsApp
+- Telegram
+
+---
+
+### 💰 Plataforma Financeira
+
+Aplicação moderna com:
+
+- Dashboard Financeiro
+- Metas
+- Planejamento
+- Relatórios
+- Open Finance
+- Inteligência Artificial
+
+---
+
+# 📈 GitHub
 
 <p align="center">
-  Desenvolvedor Junior em constante aprendizado e evolução.<br />
-  Especializado em desenvolvimento web com foco em Full-stack.<br />
-  🚀 Apaixonado por criar experiências incríveis<br />
-  📚 Sempre aprendendo novas tecnologias<br />
-  💡 Resolvendo problemas com criatividade
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusHenriquePires&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusHenriquePires&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenriquePires&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📊 Estatísticas
+# 🎯 Objetivos
+
+✔ Construir soluções com Inteligência Artificial
+
+✔ Criar aplicações Full Stack escaláveis
+
+✔ Contribuir para projetos Open Source
+
+✔ Evoluir continuamente como desenvolvedor
+
+---
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=MatheusHenriquePires&cc=0D1117&tc=00FFFF&ic=FFFFFF&bc=000000" alt="GitHub Stats" />
+
+### 🚀 "A melhor forma de prever o futuro é construí-lo."
+
 </p>
 
 ---
 
-<p align="center"><strong>Última atualização:</strong> 27 de fevereiro de 2026</p>
+<p align="center">
+Última atualização: <strong>19 de junho de 2026</strong>
+</p>
